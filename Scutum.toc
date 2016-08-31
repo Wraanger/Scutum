@@ -1,0 +1,10 @@
+﻿## Interface: 70000
+## Title: Scutum
+## Notes: Minimalistic user interface.
+## Author: Valle/Warsong
+## Version: 0.0.1
+## SavedVariablesPerCharacter: ScutumSettings
+
+embeds\oUF\oUF.xml
+
+Scutum.xml

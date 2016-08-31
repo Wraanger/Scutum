@@ -1,0 +1,3 @@
+﻿local addon, core = ...
+local oUF = core.oUF
+local E, F, C = unpack(select(2, ...))

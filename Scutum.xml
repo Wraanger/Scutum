@@ -1,0 +1,17 @@
+﻿<Ui xmlns='http://www.blizzard.com/wow/ui'>
+	<Script file='modules/core/init.lua'/>
+	<Script file='modules/core/api.lua'/>
+	
+	<Script file='modules/automation/repair.lua'/>
+	<Script file='modules/automation/sellgrays.lua'/>
+	
+	<Script file='modules/maps/worldmap.lua'/>
+	<Script file='modules/maps/minimap.lua'/>
+	
+	<Script file='modules/infobar/bar.lua'/>
+	<Script file='modules/infobar/location.lua'/>
+	<Script file='modules/infobar/clock.lua'/>
+	
+	<Script file='modules/unitframes/tags.lua'/>
+	<Script file='modules/unitframes/layout.lua'/>
+</Ui>
