@@ -14,4 +14,8 @@
 	
 	<Script file='modules/unitframes/tags.lua'/>
 	<Script file='modules/unitframes/layout.lua'/>
+	
+	<Script file='modules/misc/tweaks.lua'/>
+	<Script file='modules/misc/iLvl.lua'/>
+	<Script file='modules/misc/durability.lua'/>
 </Ui>

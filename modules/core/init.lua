@@ -1,10 +1,10 @@
 ﻿-- [[ Core ]]
-local addon, core = ...
+local name, addon = ...
 
-core[1] = {} -- E, Events
-core[2] = {} -- F, Functions
-core[3] = {} -- C, Constants/Config
-core[4] = {} -- S, Shared
+addon[1] = {} -- E, Events
+addon[2] = {} -- F, Functions
+addon[3] = {} -- C, Constants/Config
+addon[4] = {} -- S, Shared
 
 local E, F, C = unpack(select(2, ...))
 
